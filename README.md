@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile 🌟
-
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+Health+Tech+World)
+# =====================================================
+#      🌟 Welcome to My Digital Health Tech World 🌟      
+# =====================================================
 
 ## 👨‍💻 About Me  
 
