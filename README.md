@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me  
 
-I am a digital health engineer passionate about revolutionizing healthcare through technology. With expertise in software development, data analytics, and machine learning, I strive to create innovative solutions that enhance patient care and make healthcare more accessible.  
+I am a digital health engineering student passionate about revolutionizing healthcare through technology. With expertise in software development, data analytics, and machine learning, I strive to create innovative solutions that enhance patient care and make healthcare more accessible.  
 My future plans include:  
 - Building AI-powered personalized health solutions.  
 - Leveraging big data to improve preventive care.  
